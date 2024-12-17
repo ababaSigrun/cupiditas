@@ -8,11 +8,11 @@
     "mobile":"Android"
   },
   "point-skill":[
-    {"skill-name":"Programing","skill-point":"70"},
-    {"skill-name":"Database","skill-point":"65"},
-    {"skill-name":"OS","skill-point":"20"},
-    {"skill-name":"Hardware","skill-point":"20"},
-    {"skill-name":"Security","skill-point":"30"}],
+    {"skill-name":"Programing","skill-point":"90"},
+    {"skill-name":"Database","skill-point":"80"},
+    {"skill-name":"OS","skill-point":"40"},
+    {"skill-name":"Hardware","skill-point":"10"},
+    {"skill-name":"Security","skill-point":"40"}],
   "inherent-ability":{"name":"なんとかなる","description":"お客とのコミュニケーションで期限を伸ばすことができる。"},
   "abilities":
   {"numerical-ability":[
