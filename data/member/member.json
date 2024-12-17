@@ -1,1 +1,31 @@
-{"name":"あばば","belong-to":"ナイショ","title":"プログラマー","avatar":"./img/avator-male.png","style":{"desktop":"Mac","mobile":"Android"},"point-skill":[{"skill-name":"Programing","skill-point":"70"},{"skill-name":"Database","skill-point":"65"},{"skill-name":"OS","skill-point":"20"},{"skill-name":"Hardware","skill-point":"20"},{"skill-name":"Security","skill-point":"30"}],"inherent-ability":{"name":"なんとかなる","description":"お客とのコミュニケーションで機嫌を伸ばすことができる。"},"abilities":{"numerical-ability":[{"id":1,"value":"2"},{"id":2,"value":"2"},{"id":3,"value":"4"},{"id":4,"value":"4"},{"id":5,"value":"4"},{"id":6,"value":"4"},{"id":7,"value":"5"},{"id":8,"value":"2"},{"id":9,"value":"2"},{"id":10,"value":"2"}],"special-ability":["5","7","17","19","26","40","41","51","57","62","67","71","72","74","81"]}}
+{
+  "name":"あばば",
+  "belong-to":"所属会社はナイショ",
+  "title":"プログラマー",
+  "avatar":"./img/avator-male.png",
+  "style":{
+    "desktop":"Mac",
+    "mobile":"Android"
+  },
+  "point-skill":[
+    {"skill-name":"Programing","skill-point":"70"},
+    {"skill-name":"Database","skill-point":"65"},
+    {"skill-name":"OS","skill-point":"20"},
+    {"skill-name":"Hardware","skill-point":"20"},
+    {"skill-name":"Security","skill-point":"30"}],
+  "inherent-ability":{"name":"なんとかなる","description":"お客とのコミュニケーションで期限を伸ばすことができる。"},
+  "abilities":
+  {"numerical-ability":[
+    {"id":1,"value":"2"},
+    {"id":2,"value":"2"},
+    {"id":3,"value":"4"},
+    {"id":4,"value":"4"},
+    {"id":5,"value":"4"},
+    {"id":6,"value":"4"},
+    {"id":7,"value":"5"},
+    {"id":8,"value":"2"},
+    {"id":9,"value":"2"},
+    {"id":10,"value":"2"}],
+    "special-ability":["5","7","17","19","26","40","41","51","57","62","67","71","72","74","81"]
+  }
+}
